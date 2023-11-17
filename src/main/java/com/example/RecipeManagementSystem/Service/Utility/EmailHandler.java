@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class EmailHandler {
 
-    private static final String EMAIL_USERNAME ="aniketkatkade123@gmail.com";
+    private static final String EMAIL_USERNAME ="prsh.2111@gmail.com";
     private static final String EMAIL_PASSWORD ="yygp rbdb smkk ezfz";
 
 
